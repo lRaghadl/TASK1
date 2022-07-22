@@ -1,0 +1,40 @@
+body{
+    font-family: arial;
+    font-size: 20px;
+    margin: 0;
+    background:linear-gradient(to right bottom, #ab3898, #6da4cc);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.texts p {
+    color: black;
+    text-align: right;
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.btn {
+    background: #000000;
+    height: 50px;
+    min-width: 150px;
+    border: none;
+    border-radius: 10px;
+    color: #eee;
+    font-size: 40px;
+    font-family: 'Cookie', cursive;
+    position: relative;
+    transition: 1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding-top: 5px;
+}
+
+
+
+
