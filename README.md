@@ -16,8 +16,8 @@
 
 ![t1-3](https://user-images.githubusercontent.com/104163432/180485003-4f2cd437-3c8b-49ba-8a8e-66b627d02023.png)
 
-#Task 1 -Part 2 
-Wasdom ESP32 algorithm
+#TASK 1 - PART 2 WASDOM ESP32 ALGORITHM 
+
 
 Prerequisite:
 
