@@ -8,6 +8,8 @@
 
 -->Languages used (HTML, JAVASCRIPT , CSS)
 
+--> note :-  Preferably use it on Google Chrome browser .
+
 ![t1](https://user-images.githubusercontent.com/104163432/180484564-6f0f125e-1453-485b-ba51-8c9b92c25551.png)
 
 ![t1-2](https://user-images.githubusercontent.com/104163432/180484810-b35e8a0e-ff7c-4d43-b4ca-32ad9fe50648.png)
