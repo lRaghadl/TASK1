@@ -1,6 +1,8 @@
 #TASK1 - PART1 -SPEECH TO TEXT 
 
---> I created a simple application that converts speech to text in Arabic and also memorize the note either by speaking and converting to text or by writing directly and then save it.
+-->I created a simple application that converts speech to text in Arabic that contains 4 buttons, the first buttons record audio and convert it to text, then the second button pauses the audio recording for a temporary period, and the last button saves the voice note that has been converted to text.
+
+-->Also save the note either by speaking and converting to text or by writing directly and then saving it.
 
 --> Also, when saving the note, I set the option to listen to the written note that was saved in Arabic audio .
 
