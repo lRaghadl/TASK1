@@ -1,4 +1,4 @@
-#TASK1 - PART1 -SPEECH TO TEXT 
+# TASK1 - PART1 -SPEECH TO TEXT 
 
 -->I created a simple application that converts speech to text in Arabic that contains 4 buttons, the first buttons record audio and convert it to text, then the second button pauses the audio recording for a temporary period, and the last button saves the voice note that has been converted to text.
 
@@ -16,7 +16,7 @@
 
 ![t1-3](https://user-images.githubusercontent.com/104163432/180485003-4f2cd437-3c8b-49ba-8a8e-66b627d02023.png)
 
-#TASK 1 - PART 2 WASDOM ESP32 ALGORITHM 
+# TASK 1 - PART 2 WASDOM ESP32 ALGORITHM 
 
 
 Prerequisite:
